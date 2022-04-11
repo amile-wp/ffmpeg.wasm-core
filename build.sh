@@ -1,5 +1,6 @@
 #!/bin/bash
-
+ 
+ 
 set -eo pipefail
 
 SCRIPT_ROOT=$(dirname $0)/wasm/build-scripts
